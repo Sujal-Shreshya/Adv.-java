@@ -1,1 +1,0 @@
-Filter numbers that are divisible by 3 but not by 5
